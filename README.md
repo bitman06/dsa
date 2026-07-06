@@ -1,27 +1,28 @@
-# Data Structures & Algorithms
+# 🚀 Data Structures & Algorithms
 
-Welcome to my DSA repository!
+Welcome to my Data Structures and Algorithms repository!
 
-This repository documents my journey of learning Data Structures and Algorithms through LeetCode and other coding platforms.
+This repository documents my problem-solving journey through **LeetCode** and other coding platforms. Every solution is written in **C++** and includes an explanation of the approach, time complexity, space complexity, and key learning points.
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 🎓 B.Tech Computer Science Student
 - 💻 Primary Language: C++
-- 📚 Solving LeetCode problems regularly
+- 📚 Currently solving LeetCode problems consistently
 - 🎯 Goal: Become a Software Engineer
 
 ---
 
-## 📂 Topics Covered
+# 📂 Topics Covered
 
 - Arrays
 - Strings
 - Hashing
 - Two Pointers
 - Sliding Window
+- Prefix Sum
 - Binary Search
 - Linked List
 - Stack
@@ -33,18 +34,23 @@ This repository documents my journey of learning Data Structures and Algorithms 
 - Dynamic Programming
 - Backtracking
 - Bit Manipulation
+- Matrix
+- Math
+- Recursion
+- Sorting
 
 ---
 
-## 📈 Progress
+# 📈 Progress
 
 | Topic | Solved |
 |--------|-------:|
 | Arrays | 0 |
-| Strings | 0 |
+| Strings | **1** |
 | Hashing | 0 |
 | Two Pointers | 0 |
 | Sliding Window | 0 |
+| Prefix Sum | 0 |
 | Binary Search | 0 |
 | Linked List | 0 |
 | Stack | 0 |
@@ -56,21 +62,39 @@ This repository documents my journey of learning Data Structures and Algorithms 
 | Dynamic Programming | 0 |
 | Backtracking | 0 |
 | Bit Manipulation | 0 |
+| Matrix | 0 |
+| Math | 0 |
+| Recursion | 0 |
+| Sorting | 0 |
 
-### 🎯 Total Problems Solved: **0**
+## 🎯 Total Problems Solved
+
+**1**
 
 ---
 
-## 🛠️ Repository Structure
+# 📚 Solved Problems
 
-```
+| # | Problem | Difficulty | Topic | Pattern |
+|---|---------|------------|--------|----------|
+| 844 | Backspace String Compare | 🟢 Easy | Strings | Stack, Simulation |
+
+---
+
+# 📁 Repository Structure
+
+```text
 dsa
 │
 ├── Arrays
 ├── Strings
+│   └── 844 - Backspace String Compare
+│       ├── solution.cpp
+│       └── README.md
 ├── Hashing
 ├── Two Pointers
 ├── Sliding Window
+├── Prefix Sum
 ├── Binary Search
 ├── Linked List
 ├── Stack
@@ -81,18 +105,40 @@ dsa
 ├── Greedy
 ├── Dynamic Programming
 ├── Backtracking
-└── Bit Manipulation
+├── Bit Manipulation
+├── Matrix
+├── Math
+├── Recursion
+└── Sorting
 ```
 
 ---
 
-## 2026 Goals
+# 🎯 2026 Goals
 
-- Solve 400+ LeetCode problems
-- Master all major DSA patterns
-- Write clean, optimized C++ solutions
-- Build strong problem-solving skills for software engineering interviews
+- ✅ Solve 400+ LeetCode problems
+- ✅ Master major DSA patterns
+- ✅ Write clean, well-documented C++ solutions
+- ✅ Strengthen problem-solving skills for software engineering interviews
+- ✅ Maintain a consistent GitHub contribution history
 
 ---
 
-**Happy Coding! **
+## ⭐ Repository Standards
+
+Every problem in this repository includes:
+
+- 📄 Clean C++ solution
+- 💡 Approach explanation
+- ⏱️ Time Complexity
+- 💾 Space Complexity
+- 🧠 Concepts used
+- 🚀 Future optimization (when applicable)
+
+---
+
+**Happy Coding! 🚀**
+
+## 📅 Recent Updates
+
+- ✅ 2026-07-06 — Added Stack Solution for 844. Backspace String Compare
