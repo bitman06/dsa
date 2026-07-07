@@ -80,3 +80,6 @@ O(1)
 This problem teaches how recognizing the input constraints (only three distinct values) allows a specialized linear-time algorithm instead of a general-purpose sort.
 
 The Dutch National Flag Algorithm is the expected interview solution.
+
+**Author:** Tejaswa Tiwari  
+**Language:** C++
