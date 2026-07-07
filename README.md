@@ -79,6 +79,7 @@ This repository documents my problem-solving journey through **LeetCode** and ot
 |---|---------|------------|--------|----------|
 | 844 | Backspace String Compare | 🟢 Easy | Strings | Stack, Simulation |
 | 75 | Sort Colors | 🟡 Medium | Arrays | Two Pointers |
+| 3731 | Find Missing Elements | 🟢 Easy | Arrays | Hashing |
 
 ---
 
@@ -88,10 +89,23 @@ This repository documents my problem-solving journey through **LeetCode** and ot
 dsa
 │
 ├── Arrays
+│   ├── 75 - Sort Colors
+│   │   ├── brute.cpp
+│   │   ├── better.cpp
+│   │   ├── optimal.cpp
+│   │   └── README.md
+│   │
+│   └── 3731 - Find Missing Elements
+│       ├── brute.cpp
+│       ├── better.cpp
+│       ├── optimal.cpp
+│       └── README.md
+│
 ├── Strings
 │   └── 844 - Backspace String Compare
 │       ├── solution.cpp
 │       └── README.md
+│
 ├── Hashing
 ├── Two Pointers
 ├── Sliding Window
