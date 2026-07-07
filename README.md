@@ -45,7 +45,7 @@ This repository documents my problem-solving journey through **LeetCode** and ot
 
 | Topic | Solved |
 |--------|-------:|
-| Arrays | 0 |
+| Arrays | **1** |
 | Strings | **1** |
 | Hashing | 0 |
 | Two Pointers | 0 |
@@ -69,7 +69,7 @@ This repository documents my problem-solving journey through **LeetCode** and ot
 
 ## 🎯 Total Problems Solved
 
-**1**
+**2**
 
 ---
 
@@ -78,6 +78,7 @@ This repository documents my problem-solving journey through **LeetCode** and ot
 | # | Problem | Difficulty | Topic | Pattern |
 |---|---------|------------|--------|----------|
 | 844 | Backspace String Compare | 🟢 Easy | Strings | Stack, Simulation |
+| 75 | Sort Colors | 🟡 Medium | Arrays | Two Pointers |
 
 ---
 
