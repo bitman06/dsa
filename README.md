@@ -45,7 +45,7 @@ This repository documents my problem-solving journey through **LeetCode** and ot
 
 | Topic | Solved |
 |--------|-------:|
-| Arrays | **1** |
+| Arrays | **4** |
 | Strings | **1** |
 | Hashing | 0 |
 | Two Pointers | 0 |
@@ -80,6 +80,8 @@ This repository documents my problem-solving journey through **LeetCode** and ot
 | 844 | Backspace String Compare | 🟢 Easy | Strings | Stack, Simulation |
 | 75 | Sort Colors | 🟡 Medium | Arrays | Two Pointers |
 | 3731 | Find Missing Elements | 🟢 Easy | Arrays | Hashing |
+| 169 | Majority Element | 🟢 Easy | Arrays | Boyer-Moore Voting Algorithm |
+| 53 | Maximum Subarray | 🟡 Medium | Arrays | Kadane's Algorithm |
 
 ---
 
@@ -89,7 +91,19 @@ This repository documents my problem-solving journey through **LeetCode** and ot
 dsa
 │
 ├── Arrays
+│   ├── 53 - Maximum Subarray
+│   │   ├── brute.cpp
+│   │   ├── better.cpp
+│   │   ├── optimal.cpp
+│   │   └── README.md
+│   │
 │   ├── 75 - Sort Colors
+│   │   ├── brute.cpp
+│   │   ├── better.cpp
+│   │   ├── optimal.cpp
+│   │   └── README.md
+│   │
+│   ├── 169 - Majority Element
 │   │   ├── brute.cpp
 │   │   ├── better.cpp
 │   │   ├── optimal.cpp
@@ -127,6 +141,8 @@ dsa
 └── Sorting
 ```
 
+```
+
 ---
 
 # 🎯 2026 Goals
@@ -154,6 +170,3 @@ Every problem in this repository includes:
 
 **Happy Coding! 🚀**
 
-## 📅 Recent Updates
-
-- ✅ 2026-07-06 — Added Stack Solution for 844. Backspace String Compare
