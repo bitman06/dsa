@@ -45,7 +45,7 @@ This repository documents my problem-solving journey through **LeetCode** and ot
 
 | Topic | Solved |
 |--------|-------:|
-| Arrays | **4** |
+| Arrays | **5** |
 | Strings | **1** |
 | Hashing | 0 |
 | Two Pointers | 0 |
@@ -69,7 +69,7 @@ This repository documents my problem-solving journey through **LeetCode** and ot
 
 ## 🎯 Total Problems Solved
 
-**2**
+**6**
 
 ---
 
@@ -82,6 +82,7 @@ This repository documents my problem-solving journey through **LeetCode** and ot
 | 3731 | Find Missing Elements | 🟢 Easy | Arrays | Hashing |
 | 169 | Majority Element | 🟢 Easy | Arrays | Boyer-Moore Voting Algorithm |
 | 53 | Maximum Subarray | 🟡 Medium | Arrays | Kadane's Algorithm |
+| 121 | Best Time to Buy and Sell Stock | 🟢 Easy | Arrays | Greedy |
 
 ---
 
@@ -98,6 +99,12 @@ dsa
 │   │   └── README.md
 │   │
 │   ├── 75 - Sort Colors
+│   │   ├── brute.cpp
+│   │   ├── better.cpp
+│   │   ├── optimal.cpp
+│   │   └── README.md
+│   │
+│   ├── 121 - Best Time to Buy and Sell Stock
 │   │   ├── brute.cpp
 │   │   ├── better.cpp
 │   │   ├── optimal.cpp
@@ -139,8 +146,6 @@ dsa
 ├── Math
 ├── Recursion
 └── Sorting
-```
-
 ```
 
 ---
