@@ -45,20 +45,20 @@ This repository documents my problem-solving journey through **LeetCode** and ot
 
 | Topic | Solved |
 |--------|-------:|
-| Arrays | **5** |
+| Arrays | **6** |
 | Strings | **1** |
 | Hashing | 0 |
-| Two Pointers | 0 |
+| Two Pointers | **1** |
 | Sliding Window | 0 |
 | Prefix Sum | 0 |
 | Binary Search | 0 |
 | Linked List | 0 |
-| Stack | 0 |
+| Stack | **1** |
 | Queue | 0 |
 | Trees | 0 |
 | Graphs | 0 |
 | Heap | 0 |
-| Greedy | 0 |
+| Greedy | **1** |
 | Dynamic Programming | 0 |
 | Backtracking | 0 |
 | Bit Manipulation | 0 |
@@ -69,7 +69,7 @@ This repository documents my problem-solving journey through **LeetCode** and ot
 
 ## 🎯 Total Problems Solved
 
-**6**
+**7**
 
 ---
 
@@ -83,6 +83,7 @@ This repository documents my problem-solving journey through **LeetCode** and ot
 | 169 | Majority Element | 🟢 Easy | Arrays | Boyer-Moore Voting Algorithm |
 | 53 | Maximum Subarray | 🟡 Medium | Arrays | Kadane's Algorithm |
 | 121 | Best Time to Buy and Sell Stock | 🟢 Easy | Arrays | Greedy |
+| 2149 | Rearrange Array Elements by Sign | 🟡 Medium | Arrays | Two Pointers |
 
 ---
 
@@ -113,6 +114,11 @@ dsa
 │   ├── 169 - Majority Element
 │   │   ├── brute.cpp
 │   │   ├── better.cpp
+│   │   ├── optimal.cpp
+│   │   └── README.md
+│   │
+│   ├── 2149 - Rearrange Array Elements by Sign
+│   │   ├── brute.cpp
 │   │   ├── optimal.cpp
 │   │   └── README.md
 │   │
