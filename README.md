@@ -47,7 +47,7 @@ This repository documents my problem-solving journey through **LeetCode** and ot
 |--------|-------:|
 | Arrays | **6** |
 | Strings | **1** |
-| Hashing | 0 |
+| Hashing | **1** |
 | Two Pointers | **1** |
 | Sliding Window | 0 |
 | Prefix Sum | 0 |
@@ -69,7 +69,7 @@ This repository documents my problem-solving journey through **LeetCode** and ot
 
 ## 🎯 Total Problems Solved
 
-**7**
+**8**
 
 ---
 
@@ -84,6 +84,7 @@ This repository documents my problem-solving journey through **LeetCode** and ot
 | 53 | Maximum Subarray | 🟡 Medium | Arrays | Kadane's Algorithm |
 | 121 | Best Time to Buy and Sell Stock | 🟢 Easy | Arrays | Greedy |
 | 2149 | Rearrange Array Elements by Sign | 🟡 Medium | Arrays | Two Pointers |
+| 217 | Contains Duplicate | 🟢 Easy | Hashing | Hash Set |
 
 ---
 
@@ -128,12 +129,18 @@ dsa
 │       ├── optimal.cpp
 │       └── README.md
 │
+├── Hashing
+│   └── 217 - Contains Duplicate
+│       ├── brute.cpp
+│       ├── better.cpp
+│       ├── optimal.cpp
+│       └── README.md
+│
 ├── Strings
 │   └── 844 - Backspace String Compare
 │       ├── solution.cpp
 │       └── README.md
 │
-├── Hashing
 ├── Two Pointers
 ├── Sliding Window
 ├── Prefix Sum
