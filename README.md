@@ -64,12 +64,12 @@ This repository documents my problem-solving journey through **LeetCode** and ot
 | Bit Manipulation | 0 |
 | Matrix | 0 |
 | Math | 0 |
-| Recursion | 0 |
+| Recursion | **1** |
 | Sorting | 0 |
 
 ## 🎯 Total Problems Solved
 
-**8**
+**9**
 
 ---
 
@@ -85,6 +85,7 @@ This repository documents my problem-solving journey through **LeetCode** and ot
 | 121 | Best Time to Buy and Sell Stock | 🟢 Easy | Arrays | Greedy |
 | 2149 | Rearrange Array Elements by Sign | 🟡 Medium | Arrays | Two Pointers |
 | 217 | Contains Duplicate | 🟢 Easy | Hashing | Hash Set |
+| 509 | Fibonacci Number | 🟢 Easy | Recursion | Recursion, Iteration |
 
 ---
 
@@ -156,7 +157,13 @@ dsa
 ├── Backtracking
 ├── Bit Manipulation
 ├── Matrix
+|
 ├── Math
+|   └── 509 - Fibonacci Number
+│       ├── brute.cpp
+│       ├── optimal.cpp
+│       └── README.md  
+|
 ├── Recursion
 └── Sorting
 ```
