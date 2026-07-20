@@ -61,7 +61,7 @@ This repository documents my problem-solving journey through **LeetCode** and ot
 | Greedy | **1** |
 | Dynamic Programming | 0 |
 | Backtracking | 0 |
-| Bit Manipulation | 0 |
+| Bit Manipulation | **1** |
 | Matrix | 0 |
 | Math | 0 |
 | Recursion | **1** |
@@ -69,7 +69,7 @@ This repository documents my problem-solving journey through **LeetCode** and ot
 
 ## 🎯 Total Problems Solved
 
-**9**
+**10**
 
 ---
 
@@ -86,6 +86,7 @@ This repository documents my problem-solving journey through **LeetCode** and ot
 | 2149 | Rearrange Array Elements by Sign | 🟡 Medium | Arrays | Two Pointers |
 | 217 | Contains Duplicate | 🟢 Easy | Hashing | Hash Set |
 | 509 | Fibonacci Number | 🟢 Easy | Recursion | Recursion, Iteration |
+| 231 | Power of Two | 🟢 Easy | Bit Manipulation | Bitwise Operations |
 
 ---
 
@@ -130,10 +131,23 @@ dsa
 │       ├── optimal.cpp
 │       └── README.md
 │
+├── Bit Manipulation
+│   └── 231 - Power of Two
+│       ├── brute.cpp
+│       ├── better.cpp
+│       ├── optimal.cpp
+│       └── README.md
+│
 ├── Hashing
 │   └── 217 - Contains Duplicate
 │       ├── brute.cpp
 │       ├── better.cpp
+│       ├── optimal.cpp
+│       └── README.md
+│
+├── Recursion
+│   └── 509 - Fibonacci Number
+│       ├── brute.cpp
 │       ├── optimal.cpp
 │       └── README.md
 │
@@ -155,16 +169,8 @@ dsa
 ├── Greedy
 ├── Dynamic Programming
 ├── Backtracking
-├── Bit Manipulation
 ├── Matrix
-|
 ├── Math
-|   └── 509 - Fibonacci Number
-│       ├── brute.cpp
-│       ├── optimal.cpp
-│       └── README.md  
-|
-├── Recursion
 └── Sorting
 ```
 
